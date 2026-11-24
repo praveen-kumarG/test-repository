@@ -1,0 +1,387 @@
+
+
+
+Praveen Kumar
+PS No: 10824540
+Email: Praveen.Kumar16@ltm.com
+Contact No: +91 9994860470
+
+
+ 
+
+ 
+Experience Summary 	
+	Total 10 years of IT experience in enterprise software development, ERP implementation, Odoo customization, integration, deployment, and production support.  
+	Hands-on experience across Odoo versions v8 to v18, including Community and Enterprise editions, Odoo Studio, Odoo.sh, and custom framework development.  
+	Proficient in Python development, PostgreSQL database development, custom Odoo module development, RESTful API integrations, migration, and workflow automation. 
+	Skilled in Python, PostgreSQL, Odoo framework, XML, REST API, Git/SVN version control, and development on Ubuntu Linux and Windows Server operating systems.
+	Experienced in end-to-end SDLC including requirement understanding, design, coding, testing, debugging, deployment, and post-production support.
+	Worked on enterprise solutions for Nokia and international clients across telecom workflows, HRMS, learning platforms, e-commerce integrations, and document management. 
+	Recognized with corporate awards such as Super Crew and Best Support for production issue resolution and technical excellence. 
+	Successful record of accomplishment in accomplishing assigned objectives within timelines.
+	Good Understanding of internal working in Hive.
+
+Skills Summary
+Domain 	ERP software development for retail workflows, manufacturing, HRM, etc.,
+Programming Languages	 Python, XML, SQL
+Operating System / ERP Version	OS: Ubuntu & Windows
+ERP versions: Odoo v8C to c17E and v18C
+Tools / DB / Packages / Framework / ERP Components	Tools: Pycharm, Eclipse, Docker, Kubernetes, Git, GitHub.
+Skills: Python, XML, Java script, HTML, CSS, SQL, Postman, JIRA.
+Databases: PostgreSQL, MySQL
+
+
+
+
+
+
+
+
+
+
+
+Work Experience
+Project 1
+Project Name	CCR-CCB (Change, Claim, Risk & Issue Management System) | Nokia	Team Size	10
+Start Date	October 2024	End Date	April 2026
+
+
+Project Description	CCR-CCB is a web-based enterprise ERP solution developed for Nokia to manage Change, Claim, Risk, and Issue (CCRI) processes along with Change Control Board (CCB) governance and meeting management. As a Specialist Architect and Senior Odoo Developer, I was responsible for solution design, enterprise integrations, custom module development, workflow automation, security implementation, and performance optimization across the platform.
+I designed and developed the core CCRI and CCB modules from scratch, enabling end-to-end lifecycle management of Change, Claim, Risk, and Issue records, including approval workflows, governance processes, periodic financial tracking, meeting management, and automated business calculations. I collaborated with business stakeholders to analyze requirements, define technical solutions, and deliver scalable enterprise-grade features aligned with Nokia's governance and financial processes.
+A significant portion of my work involved integrating the platform with external enterprise applications to synchronize project, stakeholder, scope, and WBS data, ensuring real-time data consistency across multiple systems. I also developed large-scale master data management solutions, automated month-end financial calculations, configured Single Sign-On (SSO), implemented role-based security controls, integrated Outlook synchronization, and enhanced system performance for large-volume data operations.
+Key Contributions
+Core Business Solution Development
+•	Designed and developed the four primary business objects: 
+o	Change
+o	Claim
+o	Risk
+o	Issue
+•	Implemented complete CCRI lifecycle management workflows.
+•	Developed advanced business process automation and approval mechanisms.
+•	Created comprehensive attachment management capabilities across CCRI, CCB, and CCB Meeting records.
+Change Control Board (CCB) Management
+•	Developed the CCB module with complete governance and tracking features.
+•	Designed and implemented the CCB Meeting module.
+•	Established relationships between CCRI records, CCB records, and meeting entities.
+•	Automated Meeting Minutes (MoM) generation functionality.
+•	Implemented Outlook synchronization for meeting management and collaboration.
+Enterprise System Integrations
+•	Integrated external enterprise applications to automatically fetch: 
+o	Project Details
+o	Project Scope Information
+o	Stakeholder Information
+o	MDG WBS Data
+•	Developed bidirectional integration for: 
+o	WBS Creation
+o	WBS Updates
+o	WBS Deletion
+•	Implemented synchronization mechanisms between Odoo and external systems through APIs.
+Master Data Management (MDM)
+•	Designed and developed Customer Master Data (CMD) structures.
+•	Designed and developed Product Hierarchy (PH) structures.
+•	Implemented complete hierarchical master data models.
+•	Developed bulk update and maintenance frameworks for large-scale master datasets.
+High-Volume Data Processing
+•	Built quarterly update wizards for CMD and PH master data.
+•	Enabled processing and updating of lakhs of records while maintaining full hierarchical integrity.
+•	Optimized bulk operations for enhanced performance and reliability.
+Advanced Financial Features
+•	Developed Periodic Split functionality for Change, Claim, and Risk records.
+•	Implemented complex business rules and multiple acceptance criteria.
+•	Built configurable financial calculation engines.
+•	Developed automated currency conversion mechanisms to calculate EURO values across all transactional currencies.
+Scheduler & Automation Development
+•	Developed automated schedulers to perform month-end financial calculations.
+•	Automated EAC (Estimate at Completion) and ETC (Estimate to Complete) computations.
+•	Implemented periodic processing logic triggered by financial period transitions.
+•	Reduced manual intervention through automated background processing.
+Security & Access Management
+•	Designed and implemented role-based access controls.
+•	Configured user permissions and security groups.
+•	Enforced data visibility restrictions based on business requirements.
+•	Configured and integrated Single Sign-On (SSO) authentication.
+Technical Architecture & Performance Optimization
+•	Analyzed business requirements and proposed scalable technical solutions.
+•	Designed reusable backend frameworks and dynamic business logic components.
+•	Implemented advanced domain filtering and relational data management.
+•	Enhanced application performance through query, process, and architecture optimization.
+•	Performed production issue analysis, debugging, and continuous improvements.
+Key Achievements
+•	Developed multiple enterprise-critical modules from scratch.
+•	Delivered complex integrations with external enterprise systems.
+•	Automated large-scale financial and business processes.
+•	Managed high-volume master data updates involving lakhs of records.
+•	Implemented secure, scalable, and maintainable architecture solutions.
+•	Improved operational efficiency through workflow automation and integration-driven processes.
+z
+Role & Contribution	Role: Specialist Architect / Senior Odoo Developer
+•	Being a part of technical design
+•	Develop the requirement
+•	Producing efficient codes
+•	Writing program codes for reference and reporting
+•	Deployment of the project
+•	Testing software and fixing problems
+•	Installation
+•	Configuration
+•	Maintaining systems once they're up and running
+Skills	Odoo version 17C, Python, XML, PostgreSQL, REST APIs, JSON, SSO, Outlook Integration, ERP Architecture, Workflow Automation, GitHub, Pycharm, CI/CD Pipeline, Docker, Kubernetes, JS, HTML, CSS, SQL, Postman, JIRA.
+Awards & Professional Recognitions
+Start Date	October 2024	End Date	April 2026
+Project	LTM (Nokia Account – CCR-CCB Project)
+Super Crew (3x)	Displaying exemplary team spirit, taking initiative, and exceeding expectations while always being guided by LTM values.
+Team Player	Your commitment to the team is commendable. You make us proud.
+Problem Solver	Your ability to solve the problem at hand is much appreciated.
+
+Project 2
+Project Name	Nokia LL (Lessons Learnt)	Team Size	4
+Start Date	May 2026	End Date	June 2026
+
+Project Description	This project involved creating a specialized Learning Management Platform for Nokia to streamline and manage employee learning pathways and training programs. The platform enables users to seamlessly browse corporate training courses, view exhaustive course details, and request enrollment through a highly configurable approval workflow engine.
+To ensure strict course access governance and absolute compliance with Nokia’s organizational learning policies, I implemented a robust, manager-based approval validation process. The entire solution was built from the ground up on the Odoo framework and successfully delivered using Agile development methodologies.
+
+
+
+Role & Contribution
+	•	Being a part of technical design
+•	Develop the requirement
+•	Producing efficient codes
+•	Writing program codes for reference and reporting
+•	Deployment of the project
+•	Testing software and fixing problems
+•	Installation
+•	Configuration
+Maintaining systems once they're up and running
+Technology &Tools
+	Odoo version 18C, Python, XML, PostgreSQL, GitHub, Pycharm, CI/CD Pipeline, Docker, Kubernetes, JS, HTML, CSS, SQL, Postman, JIRA. 
+
+
+
+
+
+
+Project 3
+Project Name	HRMS (Migration from version 13E to 17E)	Team Size	1
+Start Date	March 2024	End Date	September 2024
+
+Project Description	A web-based ERP solution for a Philippines company, I’ve migrated around 40 custom modules from version 13 to 17 enterprise, the following are the some of the module’s recruitment, employees, time keeping, time off, approvals, payroll, human resource, self service portal, etc.,
+I’ve performed several activities for the migration of this project, such as analyzing the differences between Odoo 13 and 17, taking a full backup of the system, setting up odoo 13 and Odoo 17 environment, updating custom HRMS modules for Odoo 17, testing the migrated system thoroughly, fixing bugs and making necessary adjustments, etc.,
+
+
+Role & Contribution		Being a part of technical designing
+	Develop the requirement
+	Producing efficient codes
+	Writing program codes for reference and reporting
+	Deployment of the project
+	Testing software and fixing problems
+	Installation
+	Configuration
+	Demo to the client
+	Maintaining systems once they're up and running
+Technology & Tools	Odoo version 13E, 14E, 15E, 16E, 17E, Python, XML, PostgreSQL, GitHub, Pycharm, JS, HTML, CSS, SQL.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Project 4
+Project Name	Anflocor DMS	Team Size	1
+Start Date	March 2024	End Date	September 2024
+
+Project Description	A web-based ERP solution for a Philippines company, I’ve developed a web page to submit documents containing lots of fields with acceptance criteria. The page contains fields with list of dynamic data loaded from backend model, default value based on user login, lots of dynamic filters based on selection of other field values, created one2many field functionality on the website with adding attachments, allowing multiple selection, etc. Upon successful submission a thank you page will appear and the data is saved to backend model. I’ve also worked on analysing and developing solutions for the issues with the data, process, etc., in this project.
+
+
+
+Role & Contribution		Being a part of technical designing
+	Develop the requirement
+	Producing efficient codes
+	Writing program codes for reference and reporting
+	Deployment of the project
+	Testing software and fixing problems
+	Installation
+	Configuration
+	Demo to the client
+	Maintaining systems once they're up and running
+Technology & Tools	Odoo, Python, PostgreSQL, XML, RESTful APIs, eCommerce Integration, Sales, Purchase, Accounting, Inventory
+
+
+ 
+
+Project 5
+Project Name	LifeSports	Team Size	2
+Start Date	August 2022	End Date	October 2023
+
+Project Description	A web-based ERP solution for a Philippines company, Developed and customized multiple Odoo modules for Sales, Purchase, Accounting, and Inventory to meet the business needs of Lifesports.
+Built robust custom workflows and automation processes to streamline order management, procurement, and accounting.
+Successfully integrated Lazada, Zalora, and TikTokShop eCommerce platforms with Odoo using REST APIs, enabling seamless synchronization of products, orders, inventory, and financial data.
+Enhanced the system’s performance by optimizing queries and improving module architecture, ensuring efficient handling of high-volume sales and inventory data.
+Led the technical implementation and troubleshooting of complex API integrations, ensuring data consistency and integrity across systems. Collaborated closely with the sales, finance, and inventory management teams to deliver a user-friendly and scalable solution that improved operational efficiency.
+
+
+Role & Contribution		Being a part of technical designing
+	Develop the requirement
+	Producing efficient codes
+	Writing program codes for reference and reporting
+	Deployment of the project
+	Testing software and fixing problems
+	Installation
+	Configuration
+	Demo to the client
+	Maintaining systems once they're up and running
+Technology & Tools	Odoo, Python, PostgreSQL, XML, RESTful APIs, eCommerce Integration, Sales, Purchase, Accounting, Inventory
+
+
+ 
+
+Project 6
+Project Name	Aserco	Team Size	2
+Start Date	August 2022	End Date	October 2023
+
+Project Description	A web-based ERP solution for a Philippines company, I’ve developed a web page to book appointments for servies with various details like customer details, service address & booking details. This page includes lots of acceptance criteria and some advance design like calendar widget with showing only the available scheduled dates as active and other dates are disabled. There is an important model at backend to define the allocated technician schedules with the following list of fields date, technician(user), service needed, timeslot, allocation, available allocation. So when the user selects information of service needed, timeslot, based on the logged in user the system will fetch the available dates in the calendar widget.
+Upon successful submission of the data the page redirects to success page and the data stored in the backend model “crm.lead” which will then be taken into sales flow by creating new quotation from the lead.
+The functionalities are developed to pass custom fields values in the sales flow when creating new quotation from lead, with lots of acceptance criteria for most of the fields values in the backend model.
+For this project, I’ve learned the odoo studio development course and developed most of the features quickly via studio for proving the concepts and later we developed the studio functionality into code developed. Part of this project we developed lots of automated actions, handled the data, process, analyzing design, etc.,
+
+
+Role & Contribution		Being a part of technical designing
+	Develop the requirement
+	Producing efficient codes
+	Writing program codes for reference and reporting
+	Deployment of the project
+	Testing software and fixing problems
+	Installation
+	Configuration
+	Demo to the client
+	Maintaining systems once they're up and running
+Technology & Tools	Odoo, Python, PostgreSQL
+
+
+
+
+ 
+
+Project 7
+Project Name	HardwareNext	Team Size	4
+Start Date	August 2022	End Date	October 2023
+
+Project Description	A web-based ERP solution for a Philippines company, I’ve developed lots of custom modules to provide solutions for all the client needs with hundreds of fields in the product enquiry window with lots of price groups as the client was quite strict with number of fields. The following functionalities developed by me in this project Multiple discount for entire sales flow, multiple discount for entire purchase flow, developed master tables for commission feature, product inquiry window with allowing to select lots of price groups in sales flow, product inquiry window with loading price from latest confirmed PO for purchase flow, developed notifications to display invoices for the change of default price group in the product inquiry window in sales flow, privilege to select all products in the search window of product inquiry, display some default price levels, all price groups. For the selected products in the product inquiry, the report is generated dynamically with some 8 tabs in the same window as SO, SJ, CN, PO, PJ, DN, Clients & Canvas Note. The reports are shown with three different filters as All dates, Current Month & Last 10 Days.
+
+
+Role & Contribution		Being a part of technical designing
+	Develop the requirement
+	Producing efficient codes
+	Writing program codes for reference and reporting
+	Deployment of the project
+	Testing software and fixing problems
+	Installation
+	Configuration
+	Demo to the client
+	Maintaining systems once they're up and running
+Technology & Tools	Odoo, Python, PostgreSQL
+
+
+
+
+ 
+
+Project 8
+Project Name	NWO Whai Rawa (New Zealand project)	Team Size	1
+Start Date	January 2021	End Date	June 2021
+
+Project Description	A web-based ERP solution for a New Zealand company, I’ve developed around 10 modules in 3 months of time. I’ve developed the following functionalities for this project customized approval, customized asset depreciation, customized reports, customized access rights, merged projects with accounting, recurring invoices. The following standard Odoo modules are customized/extended for this project Accounting, Accounting Assets, Project and base modules. Also worked on module migrations, migrated the following effective modules to the latest version of Odoo 14 in enterprise edition MIS Builder, MIS Builder Budget, Web Company Color, Recurring Invoices.
+
+
+Role & Contribution		Being a part of technical designing
+	Develop the requirement
+	Producing efficient codes
+	Writing program codes for reference and reporting
+	Deployment of the project
+	Testing software and fixing problems
+	Installation
+	Configuration
+	Demo to the client
+	Maintaining systems once they're up and running
+Technology & Tools	Odoo, Python, PostgreSQL
+
+
+
+
+ 
+
+
+Project 9
+Project Name	Pantaq	Team Size	1
+Start Date	January 2018	End Date	July 2020
+
+Project Description	A web-based ERP solution for Pantaq company which is a wholesale medical and pharmaceutical procurement and supply specialist. It depends on many standard odoo12 modules as follows crm, sale_crm, uom, purchase, hr, delivery_hs_code and it’s developed from scratch with the functional flow that suits this company, for example It developed with various CRM stages like New, Assigned, RFQ sent, 
+Internal Order Created, Customer Quote sent
+
+
+Role & Contribution		Being a part of technical designing
+	Develop the requirement
+	Producing efficient codes
+	Writing program codes for reference and reporting
+	Deployment of the project
+	Testing software and fixing problems
+	Installation
+	Configuration
+	Demo to the client
+	Maintaining systems once they're up and running
+Technology & Tools	Odoo, Python, PostgreSQL
+
+
+ 
+
+Project 10
+Project Name	Cristo	Team Size	5
+Start Date	October 2014	End Date	December 2017
+
+Project Description	A web-based ERP solution for any Christian diocese to handle information
+and basic pastoral functions related to institutes, organizations and parishes. CristO
+helps to manage information of the Diocese, Parishes, Families, Members and Institutes.
+Module:  Cristo SMS
+A Web based application to send Instant (Individual), Bulk (Group) and 
+Scheduled SMSs. It allows maintaining SMS Gateways, SMS Users, SMS Credits, Templates, Contact lists, Various SMSs and their Histories. It schedules/automates birth day SMSs and marriage anniversary SMSs very effectively
+
+
+Role & Contribution		Being a part of technical designing
+	Develop the requirement
+	Producing efficient codes
+	Writing program codes for reference and reporting
+	Deployment of the project
+	Testing software and fixing problems
+	Installation
+	Configuration
+	Demo to the client
+	Maintaining systems once they're up and running
+Technology & Tools	Odoo, Python, PostgreSQL
+
+
+
+
+
+
+
+
+
+Educational Qualification
+Education & Credentials	Master of Computer Applications (MCA)
+Indira Gandhi National Open University (IGNOU) | Graduated: 2016
+Post Graduate Diploma in Information Technology (PGDIT)
+Bosco Institute of Information Technology (BIIT) | Graduated: 2014
+
+ 
+
